@@ -1,5 +1,6 @@
 # 💫 About Me:
-# 👋 Hey there! I'm Reena Gupta<br><br>🚀 Passionate MERN stack developer | AI enthusiast | Lifelong learner<br><br>---<br><br>🔭 **I’m currently working on**  <br>An AI-integrated productivity tool using MERN <br><br>🤝 **I’m looking to collaborate on**  <br>Open-source AI projects & cool MERN stack apps <br><br>🙋‍♂️ **I’m looking for help with**  <br>Full-stack applications and innovative AI projects.<br><br>🌱 **I’m currently learning**  <br>Backend in MERN, Advanced prompt engineering and Next.js<br><br>💬 **Ask me about**  <br>Building scalable web applications and applying AI in real-world solutions.<br><br><br><br>---
+#👋 Hey there! I'm Reena Gupta<br><br>
+🚀 Passionate MERN stack developer | AI enthusiast | Lifelong learner<br><br>---<br><br>🔭 **I’m currently working on**  <br>An AI-integrated productivity tool using MERN <br><br>🤝 **I’m looking to collaborate on**  <br>Open-source AI projects & cool MERN stack apps <br><br>🙋‍♂️ **I’m looking for help with**  <br>Full-stack applications and innovative AI projects.<br><br>🌱 **I’m currently learning**  <br>Backend in MERN, Advanced prompt engineering and Next.js<br><br>💬 **Ask me about**  <br>Building scalable web applications and applying AI in real-world solutions.<br><br><br><br>---
 
 
 ## 🌐 Socials:
